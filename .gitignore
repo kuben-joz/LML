@@ -1,0 +1,11 @@
+dataset/
+venv/
+*.txt
+!requirements.txt
+buffer
+.terraform
+hosts
+*.tfstate*
+.ssh
+.keys
+
